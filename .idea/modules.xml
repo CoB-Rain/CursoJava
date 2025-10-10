@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClaseMath/ClaseMath.iml" filepath="$PROJECT_DIR$/ClaseMath/ClaseMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CursoJava.iml" filepath="$PROJECT_DIR$/.idea/CursoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Formato de Numeros/Formato de Numeros.iml" filepath="$PROJECT_DIR$/Formato de Numeros/Formato de Numeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeraClase/PrimeraClase.iml" filepath="$PROJECT_DIR$/PrimeraClase/PrimeraClase.iml" />
     </modules>
   </component>
