@@ -15,10 +15,10 @@ public class Main {
          *             }
          *         }
          *
-         *          la variable "texto" esta fuera del alcance de la aplicacion.
-         *          por eso no se puede mostrar en pantalla.
-         *          👇
-         *          System.out.println(texto); <-- ERROR!
+         *         la variable "texto" esta fuera del alcance de la aplicacion.
+         *         por eso no se puede mostrar en pantalla.
+         *         👇
+         *         System.out.println(texto); <-- ERROR!
          */
 
         if(true){
