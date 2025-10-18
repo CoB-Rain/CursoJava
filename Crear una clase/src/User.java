@@ -7,4 +7,9 @@ class User {
     public void saludar() {
         System.out.println("Hola mundo! soy " + this.name);
     }
+
+    //Metodo constructor
+     User(String name) {
+        this.name = name;
+     }
 }
