@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Alcance/Alcance.iml" filepath="$PROJECT_DIR$/Alcance/Alcance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aplicacion de terminal/Aplicacion de terminal.iml" filepath="$PROJECT_DIR$/Aplicacion de terminal/Aplicacion de terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClaseMath/ClaseMath.iml" filepath="$PROJECT_DIR$/ClaseMath/ClaseMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClaseScanner/ClaseScanner.iml" filepath="$PROJECT_DIR$/ClaseScanner/ClaseScanner.iml" />
