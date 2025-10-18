@@ -1,3 +1,3 @@
-public class User {
-    //clase user creada!
+class User {
+    String name; //propiedad de la clase User
 }
