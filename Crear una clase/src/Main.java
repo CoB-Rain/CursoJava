@@ -20,5 +20,7 @@ public class Main {
         //metodos saludar de cada User.
         user.saludar();
         user2.saludar();
+
+        System.out.println(User.tableName);
     }
 }
